@@ -1,6 +1,6 @@
 # Instagram
 
-### Cool package to easily gather Instagram Data using beautiful soup 
+#### Cool package to easily gather Instagram data using beautiful soup 
 
 
 
